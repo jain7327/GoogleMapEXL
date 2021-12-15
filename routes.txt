@@ -1,0 +1,8 @@
+Title = via I-80 W
+Time = 2 hr 47 min
+Distence = 164 miles
+
+Title = via CA-70 S
+Time = 3 hr 13 min
+Distence = 192 miles
+
